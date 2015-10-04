@@ -3,7 +3,7 @@
 
 Shèngjīng, yēsū jīdū shì shàngdì hé shàngdì de érzi
 
-Union version, utf using iconv from hb5
+Union version, utf using iconv from hb5 some errors present, original available in source/
 
 Taken from http://www.o-bible.com/
 
