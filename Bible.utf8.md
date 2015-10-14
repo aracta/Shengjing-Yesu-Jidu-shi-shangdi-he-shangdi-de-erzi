@@ -1,4 +1,10 @@
-Holy Bible, Chinese Union Version (Big5), Textfile 970510
+---
+layout: defaultLoveJesus
+title: Holy Bible, Chinese Union Version (Big5), Textfile 970510
+---
+
+#Holy Bible, Chinese Union Version (Big5), Textfile 970510
+
 Gen 1:1 起初　神創造天地。
 Gen 1:2 地是空虛混沌．淵面黑暗．　神的靈運行在水面上。
 Gen 1:3 　神說、要有光、就有了光。
